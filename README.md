@@ -68,13 +68,6 @@ El sistema permitirá:
 
 ---
 
-## **Tecnologías Utilizadas**
-- **Frontend:** HTML5 y CSS3 para la estructura y diseño.
-- **Backend:** Framework moderno para la gestión de datos.
-- **Base de Datos:** Diseño relacional para almacenar información de manera segura y eficiente.
-
----
-
 ## **Funcionalidades Clave**
 - **Gestión integral:** Control total sobre datos de jugadores, clubes y torneos.
 - **Reportes detallados:** Estadísticas claras para análisis.
@@ -91,7 +84,9 @@ El sistema permitirá:
   - HTML5
   - CSS3
   - Bootstrap 
-  - JavaScript 
+  - JavaScript
+- **Base de Datos:**
+  -SqLite
 
 ---
 
